@@ -16,16 +16,16 @@ This Repo contains an **Excel-based retail sales analysis project** focused on i
 ## Dataset Description:
   -	Retail sales transactional data
   -	Fields include:
-    o	Transaction ID
-    o	Order Date
-    o	Customer Age
-    o	Product Category
-    o	Gender 
-    o	Quantity
-    o	Price Per Unit
-    o	Total Amount
+    -	Transaction ID
+    -	Order Date
+    -	Customer Age
+    -	Product Category
+    -	Gender 
+    -	Quantity
+    -	Price Per Unit
+    -	Total Amount
   -	Each customer appears only once in the dataset with their respective {CUST000} ID. (Single transaction per customer)
-  Data Source: Public retail sales dataset sourced from Kaggle
+  Data Source: [Public retail sales dataset sourced from Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 ## Analysis Workflow:
   The analysis was done entirely in **Microsoft Excel** and includes the following steps:
