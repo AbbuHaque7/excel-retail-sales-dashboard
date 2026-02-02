@@ -63,8 +63,8 @@ This Repo contains an **Excel-based retail sales analysis project** focused on i
 
 ## Purpose of the Project:
   This project was built to strengthen hands-on skills in:
-    -	Data Cleaning and Validation
-    -	Exploratory Data Analysis (EDA)
-    -	Accurate calculation of KPIs
-    -	Business Insight generation
-    -	Excel Dashboard creation for portfolio presentation
+  -	Data Cleaning and Validation
+  -	Exploratory Data Analysis (EDA)
+  -	Accurate calculation of KPIs
+  -	Business Insight generation
+  -	Excel Dashboard creation for portfolio presentation
