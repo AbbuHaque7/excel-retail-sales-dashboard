@@ -32,11 +32,11 @@ This Repo contains an **Excel-based retail sales analysis project** focused on i
     -	Data quality checks (null values, date validation & formatting)
     -	Verification of Total Amount field by recalculating Quantity x Price Per Unit
     -	Creation of **Pivot Tables** to analyze:
-      -	Monthly revenue trends
-      -	Product Category performance
-      -	Gender-wise spending patterns
-      -	Age band distribution
-      -	Average spending by Gender
+        -	Monthly revenue trends
+        -	Product Category performance
+        -	Gender-wise spending patterns
+        -	Age band distribution
+        -	Average spending by Gender
     -	Calculation of Key Performance Indicators (KPIs)
     -	Development of a structured dashboard with visuals and summary insights.
 
