@@ -29,16 +29,16 @@ This Repo contains an **Excel-based retail sales analysis project** focused on i
 
 ## Analysis Workflow:
   The analysis was done entirely in **Microsoft Excel** and includes the following steps:
-    -	Data quality checks (null values, date validation & formatting)
-    -	Verification of Total Amount field by recalculating Quantity x Price Per Unit
-    -	Creation of **Pivot Tables** to analyze:
-      -	Monthly revenue trends
-      -	Product Category performance
-      -	Gender-wise spending patterns
-      -	Age band distribution
-      -	Average spending by Gender
-    -	Calculation of Key Performance Indicators (KPIs)
-    -	Development of a structured dashboard with visuals and summary insights.
+  -	Data quality checks (null values, date validation & formatting)
+  -	Verification of Total Amount field by recalculating Quantity x Price Per Unit
+  -	Creation of **Pivot Tables** to analyze:
+    -	Monthly revenue trends
+    -	Product Category performance
+    -	Gender-wise spending patterns
+    -	Age band distribution
+    -	Average spending by Gender
+  -	Calculation of Key Performance Indicators (KPIs)
+  -	Development of a structured dashboard with visuals and summary insights.
 
 ## Key Insights:
   -	May recorded the highest revenue, while September experienced a slight dip in sales compared to other months.
